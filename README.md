@@ -12,4 +12,5 @@ sudo putty
 ##### to do read
 ```
 http://www.tldp.org/HOWTO/Serial-HOWTO.html
+https://www.instructables.com/id/Programming-the-PmodOLEDrgb-on-the-ChipKIT-Pro-MX7/
 ```
