@@ -14,3 +14,6 @@ sudo putty
 http://www.tldp.org/HOWTO/Serial-HOWTO.html
 https://www.instructables.com/id/Programming-the-PmodOLEDrgb-on-the-ChipKIT-Pro-MX7/
 ```
+
+
+R.E. Blahut: Theory and practice of error control codes
