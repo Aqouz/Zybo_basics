@@ -17,3 +17,6 @@ https://www.instructables.com/id/Programming-the-PmodOLEDrgb-on-the-ChipKIT-Pro-
 
 
 R.E. Blahut: Theory and practice of error control codes
+
+
+https://standards.ieee.org/standard/1076-2008.html
