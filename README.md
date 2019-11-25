@@ -26,3 +26,5 @@ https://standards.ieee.org/standard/1076-2008.html
 DIGITAL COMMUNICATIONS Fundamentals and Applications Second Edition
 https://www.academia.edu/38995331/DIGITAL_COMMUNICATIONS_Fundamentals_and_Applications_Second_Edition
 Digital Communications: A Discrete-Time Approach
+
+DIGITAL COMMUNICATIONS Fundamentals and Applications Second Edition
